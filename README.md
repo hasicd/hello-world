@@ -1,4 +1,4 @@
 # hello-world
 Tutorial on GitHub repository
 
-Dummy README file for tutorial on how to use repository with GitHub
+Updating README file with information as part of the tutorial training. This is dummy test.
